@@ -25,4 +25,4 @@
 [9.](#9) Jiang, Hong, et al. “SIRT6 Regulates TNF-α Secretion through Hydrolysis of Long-Chain Fatty Acyl Lysine.” Nature News, Nature Publishing Group, 3 Apr. 2013, [www.nature.com/articles/nature12038](www.nature.com/articles/nature12038).
 
 
-[10.](#10) Kaluski , S. “Neuroprotective Functions for the Histone Deacetylase SIRT6.” Cell Reports, 2017, [www.cell.com/cell-reports/fulltext/S2211-1247(17)30325-X](www.cell.com/cell-reports/fulltext/S2211-1247(17)30325-X).
+[10.] (#10) Kaluski , S. “Neuroprotective Functions for the Histone Deacetylase SIRT6.” Cell Reports, 2017, [www.cell.com/cell-reports/fulltext/S2211-1247(17)30325-X](www.cell.com/cell-reports/fulltext/S2211-1247(17)30325-X).
