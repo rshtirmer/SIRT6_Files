@@ -18,3 +18,11 @@
 
 
 [7.](#7) “Homo Sapiens Sirtuin 6 (SIRT6), RefSeqGene on Chromosome 19 - Nucleotide - NCBI.” National Center for Biotechnology Information, U.S. National Library of Medicine, [www.ncbi.nlm.nih.gov/nuccore/1027250684](www.ncbi.nlm.nih.gov/nuccore/1027250684).
+
+[8.](#8) “Homo Sapiens Sirtuin 6 (SIRT6), Transcript Variant 1, MRNA - Nucleotide - NCBI.” National Center for Biotechnology Information, U.S. National Library of Medicine, [www.ncbi.nlm.nih.gov/nuccore/NM_016539.4](www.ncbi.nlm.nih.gov/nuccore/NM_016539.4).
+
+
+[9.](#9) Jiang, Hong, et al. “SIRT6 Regulates TNF-α Secretion through Hydrolysis of Long-Chain Fatty Acyl Lysine.” Nature News, Nature Publishing Group, 3 Apr. 2013, [www.nature.com/articles/nature12038](www.nature.com/articles/nature12038).
+
+
+[10.](#10) Kaluski , S. “Neuroprotective Functions for the Histone Deacetylase SIRT6.” Cell Reports, 2017, [www.cell.com/cell-reports/fulltext/S2211-1247(17)30325-X](www.cell.com/cell-reports/fulltext/S2211-1247(17)30325-X).
