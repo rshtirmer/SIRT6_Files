@@ -1,0 +1,155 @@
+Type,in variant,"Length
+& DNA","Coordinates
+on gene","Coordinates
+on genome","Supporting
+clones",From tissue (# clones)
+Alternative exon 1,aAug10,133 bp,1 to 133,4182603 to 4182471,CN364177,"embryonic stem cells, cell lines H1, H7, andh9 (1)"
+Alternative exon 2,bAug10,126 bp,8 to 133,4182596 to 4182471,"AF233396
+and 2 others",spleen (1)
+Alternative exon 3,rAug10,94 bp,40 to 133,4182564 to 4182471,"AK074810
+and 3 others","heart (1), kidney (1), spleen (1)"
+Alternative exon 4,oAug10,93 bp,41 to 133,4182563 to 4182471,"DA957370
+and 3 others","spleen (1), testis (1)"
+Alternative exon 5,eAug10,92 bp,42 to 133,4182562 to 4182471,"AK293348
+and 2 others",
+Alternative exon 6,sAug10,90 bp,44 to 133,4182560 to 4182471,"CB154991
+and 3 others","brain (1), embryonic stem cell, retinoic acid andmitogen-treated hes cell line H7 (1)"
+Alternative exon 7,nAug10,89 bp,45 to 133,4182559 to 4182471,"DA542072
+and 8 others","lung, tumor tissue (2), alzheimer cortex (1), brain (1), colon (1) and 4 other tissues"
+Alternative exon 8,"dAug10,lAug10,qAug10",73 bp,61 to 133,4182543 to 4182471,"BI767921
+and 5 others","colon (1), embryonic stem cells, cell lines H1, H7, andh9 (1), leukocyte (1), pooled lung and spleen (1) and 2 other tissues"
+Alternative exon 9,gAug10,72 bp,62 to 133,4182542 to 4182471,"CR590451
+and 11 others","placenta cot 25-normalized (3), brain (2), fetal brain (2), leiomyosarcoma cell line (2) and 8 other tissues"
+Alternative exon 10,fAug10,71 bp,63 to 133,4182541 to 4182471,"BC000090
+and 3 others","eye (1), eye, retinoblastoma (1), placenta, choriocarcinoma (1), retinoblastoma (1) and 2 other tissues"
+Alternative exon 11,iAug10,68 bp,66 to 133,4182538 to 4182471,"BU557843
+and 2 others","adenocarcinoma, cell line (1), B cells from burkitt lymphoma (1), breast (1)"
+Alternative exon 12,"jAug10,mAug10",60 bp,74 to 133,4182530 to 4182471,"BI821935
+and 4 others","brain glioblastoma (1), ovary (pool of 3) (1), pooled brain, lung, testis (1), synovial membrane tissue from rheumatioidarthritis (1)"
+Alternative exon 13,pAug10,53 bp,81 to 133,4182523 to 4182471,"BG421009
+and 1 other","kidney (1), renal cell adenocarcinoma (1), small intestine (1)"
+Alternative intron 1 [gt-ag],"aAug10,bAug10,dAug10,
+gAug10,iAug10,jAug10,
+lAug10,mAug10,nAug10,
+qAug10,rAug10",1564 bp,134 to 1697,4182470 to 4180907,"CN364177
+and 127 others","brain (16), lung (8), stomach (6), ascites (5) and 58 other tissues"
+Alternative intron 2 [gt-ag],"eAug10,fAug10,oAug10,
+sAug10",3187 bp,134 to 3320,4182470 to 4179284,"CN364177
+and 132 others","brain (17), lung (8), kidney (6), stomach (6) and 56 other tissues"
+Alternative intron 3 [gt-ag],pAug10,5335 bp,134 to 5468,4182470 to 4177136,"CN364177
+and 139 others","brain (16), lung (8), kidney (6), stomach (6) and 63 other tissues"
+Alternative exon 14,cAug10,108 bp,289 to 396,4182315 to 4182208,"BI523659
+and 1 other",pooled lung and spleen (1)
+Alternative exon 15,hAug10,69 bp,328 to 396,4182276 to 4182208,"CR596220
+and 1 other","T cells (jurkat cell line) cot10-normalized (1), T cells from T cell leukemia (1)"
+Alternative intron 4 [gt-ag],"cAug10,hAug10",1301 bp,397 to 1697,4182207 to 4180907,"BI523659
+and 6 others","brain (1), human embryonic stem cells (1), pooled lung and spleen (1), T cells (jurkat cell line) cot10-normalized (1) and 2 other tissues"
+Alternative exon 16,"aAug10,bAug10,cAug10,
+dAug10,gAug10,hAug10,
+iAug10,jAug10,lAug10,
+mAug10,nAug10,rAug10",128 bp,1698 to 1825,4180906 to 4180779,"BC005026
+and 131 others","brain (17), lung (8), stomach (6), ascites (5) and 61 other tissues"
+Alternative exon 17,qAug10,501 bp,1698 to 2198,4180906 to 4180406,DA673795,
+Alternative exon 18,kAug10,271 bp,1757 to 2027,4180847 to 4180577,CR993183,t-lymphocytes (1)
+Alternative intron 5 [gt-ag],"aAug10,bAug10,cAug10,
+gAug10,hAug10,iAug10,
+jAug10,nAug10",1495 bp,1826 to 3320,4180778 to 4179284,"CR980774
+and 137 others","brain (18), lung (8), stomach (6), ascites (5) and 60 other tissues"
+Alternative intron 6 [gt-ag],"dAug10,lAug10,mAug10,
+rAug10",3643 bp,1826 to 5468,4180778 to 4177136,"BE276594
+and 144 others","brain (17), lung (8), skin (6), stomach (6) and 66 other tissues"
+Alternative intron 7 [gt-ag],kAug10,1293 bp,2028 to 3320,4180576 to 4179284,CR993183,t-lymphocytes (1)
+Alternative exon 19,tAug10,966 bp,2538 to 3503,4180066 to 4179101,,
+Alternative exon 20,"aAug10,bAug10,cAug10,
+eAug10,fAug10,gAug10,
+hAug10,iAug10,jAug10,
+kAug10,nAug10,oAug10,
+sAug10",183 bp,3321 to 3503,4179283 to 4179101,"BC005026
+and 152 others","brain (18), lung (8), kidney (6), stomach (6) and 64 other tissues"
+Alternative intron 8 [gt-ag],"aAug10,bAug10,cAug10,
+eAug10,fAug10,gAug10,
+hAug10,iAug10,jAug10,
+kAug10,nAug10,oAug10,
+sAug10,tAug10",1965 bp,3504 to 5468,4179100 to 4177136,"DA936653
+and 168 others","brain (19), lung (9), adenocarcinoma, cell line (6), eye (6) and 68 other tissues"
+Exon 21,"aAug10,bAug10,cAug10,
+dAug10,eAug10,fAug10,
+gAug10,hAug10,iAug10,
+jAug10,kAug10,lAug10,
+mAug10,nAug10,oAug10,
+pAug10,rAug10,sAug10,
+tAug10",60 bp,5469 to 5528,4177135 to 4177076,"BC000090
+and 175 others","brain (19), lung (9), skin (7), eye (6) and 74 other tissues"
+Intron 9 [gt-ag],"aAug10,bAug10,cAug10,
+dAug10,eAug10,fAug10,
+gAug10,hAug10,iAug10,
+jAug10,kAug10,lAug10,
+mAug10,nAug10,oAug10,
+pAug10,rAug10,sAug10,
+tAug10",1141 bp,5529 to 6669,4177075 to 4175935,"BC000090
+and 182 others","brain (19), lung (9), skin (7), eye (6) and 77 other tissues"
+Alternative exon 22,"aAug10,bAug10,cAug10,
+dAug10,eAug10,fAug10,
+gAug10,hAug10,iAug10,
+jAug10,kAug10,lAug10,
+mAug10,oAug10,pAug10",96 bp,6670 to 6765,4175934 to 4175839,"BC000090
+and 145 others","brain (15), lung (8), eye (6), kidney (6) and 68 other tissues"
+Alternative exon 23,tAug10,147 bp,6670 to 6816,4175934 to 4175788,DA936653,spleen (1)
+Alternative exon 24,nAug10,258 bp,6670 to 6927,4175934 to 4175677,"BM544459
+and 3 others","brain (1), hippocampus (1), ovary (pool of 3) (1), pooled lung and spleen (1) and 2 other tissues"
+Alternative exon 25,"rAug10,sAug10",910 bp,6670 to 7579,4175934 to 4175025,"CR618222
+and 1 other","neuroblastoma cot 25-normalized (1), spleen (1)"
+Alternative intron 10 [gt-ag],"aAug10,cAug10,dAug10,
+eAug10,gAug10,hAug10,
+iAug10,jAug10,kAug10,
+lAug10,mAug10,oAug10,
+pAug10",81 bp,6766 to 6846,4175838 to 4175758,"BC000090
+and 129 others","brain (15), lung (7), kidney (6), skin (6) and 66 other tissues"
+Alternative intron 11 [gt-ag],"bAug10,fAug10",690 bp,6766 to 7455,4175838 to 4175149,"BC005026
+and 114 others","brain (12), lung (6), eye (5), skin (5) and 55 other tissues"
+Alternative exon 26,"aAug10,cAug10,dAug10,
+eAug10,gAug10,hAug10,
+iAug10,kAug10,lAug10,
+mAug10,pAug10",81 bp,6847 to 6927,4175757 to 4175677,"BC000090
+and 107 others","brain (12), lung (6), adenocarcinoma, cell line (5), skin (5) and 57 other tissues"
+Alternative exon 27,jAug10,189 bp,6847 to 7035,4175757 to 4175569,"TI_57175086
+and 1 other","brain (1), medulla (1)"
+Alternative exon 28,oAug10,733 bp,6847 to 7579,4175757 to 4175025,AK299420,tongue (1)
+Alternative intron 12 [gt-ag],"aAug10,cAug10,dAug10,
+eAug10,gAug10,kAug10,
+mAug10,nAug10,pAug10",528 bp,6928 to 7455,4175676 to 4175149,"BM544459
+and 105 others","brain (13), lung (6), skin (5), t-lymphocytes (5) and 56 other tissues"
+Alternative intron 13 [gt-ag],"hAug10,iAug10,lAug10",568 bp,6928 to 7495,4175676 to 4175109,"BC000090
+and 7 others","adenocarcinoma, cell line (1), adrenal cortex carcinoma, cell line (1), adrenal gland (1), breast (1) and 9 other tissues"
+Alternative exon 29,kAug10,61 bp,7456 to 7516,4175148 to 4175088,"CR993183
+and 1 other",t-lymphocytes (1)
+Alternative exon 30,"aAug10,bAug10,cAug10,
+dAug10,eAug10,fAug10,
+nAug10,pAug10",124 bp,7456 to 7579,4175148 to 4175025,"BC005026
+and 74 others","brain (5), adenocarcinoma, cell line (4), placenta cot 25-normalized (4), breast (3) and 43 other tissues"
+Alternative exon 31,gAug10,175 bp,7456 to 7630,4175148 to 4174974,DR763267,embryonic stem (1)
+Alternative exon 32,mAug10,291 bp,7456 to 7746,4175148 to 4174858,CF243171,brain glioblastoma (1)
+Alternative exon 33,"hAug10,iAug10,lAug10",84 bp,7496 to 7579,4175108 to 4175025,"BC000090
+and 5 others","adrenal cortex carcinoma, cell line (1), adrenal gland (1), choriocarcinoma (1), embryonic stem cells, cell lines H1, H7, andh9 (1) and 6 other tissues"
+Alternative intron 14 [gt-ag],"aAug10,bAug10,cAug10,
+dAug10,eAug10,fAug10,
+hAug10,iAug10,lAug10,
+nAug10,oAug10,pAug10,
+rAug10,sAug10",81 bp,7580 to 7660,4175024 to 4174944,"CR618222
+and 96 others","brain (9), adenocarcinoma, cell line (4), fetal brain (4), neuroblastoma cells (4) and 57 other tissues"
+Alternative exon 34,iAug10,38 bp,7661 to 7698,4174943 to 4174906,CN364175,"embryonic stem cells, cell lines H1, H7, andh9 (1)"
+Alternative exon 35,rAug10,69 bp,7661 to 7729,4174943 to 4174875,AK301247,spleen (1)
+Alternative exon 36,pAug10,123 bp,7661 to 7783,4174943 to 4174821,BP418952,small intestine (1)
+Alternative exon 37,cAug10,136 bp,7661 to 7796,4174943 to 4174808,"BI523659
+and 2 others",pooled lung and spleen (1)
+Alternative exon 38,oAug10,243 bp,7661 to 7903,4174943 to 4174701,AK299420,tongue (1)
+Alternative exon 39,sAug10,327 bp,7661 to 7987,4174943 to 4174617,"CR618222
+and 1 other","neuroblastoma cot 25-normalized (2), brain (1), neuroblastoma cells (1)"
+Alternative exon 40,dAug10,341 bp,7661 to 8001,4174943 to 4174603,BQ060703,"lymph (1), lymphoma, cell line (1)"
+Alternative exon 41,nAug10,419 bp,7661 to 8079,4174943 to 4174525,BM544459,"brain (1), hippocampus (1)"
+Alternative exon 42,hAug10,806 bp,7661 to 8466,4174943 to 4174138,"CR596220
+and 1 other","T cells (jurkat cell line) cot10-normalized (1), T cells from T cell leukemia (1)"
+Alternative exon 43,"eAug10,fAug10",837 bp,7661 to 8497,4174943 to 4174107,"AK074810
+and 5 others","blood, adult leukocytes (1), eye, retinoblastoma (1), lung, small cell carcinoma (1)"
+Alternative exon 44,"aAug10,bAug10,lAug10",838 bp,7661 to 8498,4174943 to 4174106,"NM_001193285.1
+and 2 others","placenta, choriocarcinoma (1), spleen (1)"
